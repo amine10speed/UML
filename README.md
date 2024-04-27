@@ -25,7 +25,7 @@ Ce cahier des charges détaille les spécifications fonctionnelles et techniques
 
 Le diagramme de classes modélise la structure statique de la plateforme, identifiant les entités principales telles que Utilisateur, Annonce, Réservation, etc., ainsi que leurs relations et attributs.
 
-![Class Diagram](DiagrammeClasse.png)
+![Class Diagram](new/DiagrammeClasse.png)
 
 ### Use Case Diagram
 
